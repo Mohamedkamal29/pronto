@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#898888"
+    tools:context="app.pronto.pronto.Fragments.ChatsFragment"
+    style="@style/Base.Theme.AppCompat.Light.DarkActionBar"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chats Group"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:textColor="#fff"/>
+
+</FrameLayout>
